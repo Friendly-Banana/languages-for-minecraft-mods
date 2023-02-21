@@ -1,5 +1,5 @@
 # Languages for Minecraft mods
-This is a list of programming languages you can use to create Minecraft mods.
+This is a list of programming languages Minecraft mods have been written in. Most of them are just proofs of concept and not intented for serious mod development. 
 
 ## JVM
 ### [Java](https://www.java.com/)
