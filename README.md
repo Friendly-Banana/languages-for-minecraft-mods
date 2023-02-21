@@ -1,4 +1,4 @@
-# Make a Minecraft Mod
+# Languages for Minecraft mods
 This is a list of programming languages you can use to create Minecraft mods.
 
 ## JVM
@@ -18,7 +18,9 @@ This is a list of programming languages you can use to create Minecraft mods.
 - [Fabric](https://github.com/FabricMC/fabric-language-groovy)
 
 ## [Lua](https://www.lua.org/)
-https://github.com/Gorlem/ScriptIt
-https://github.com/aldahick/luaforge
-https://github.com/hugeblank/allium
+- https://github.com/Gorlem/ScriptIt
+- https://github.com/aldahick/luaforge
+- https://github.com/hugeblank/allium
 
+## Cobol
+- 
